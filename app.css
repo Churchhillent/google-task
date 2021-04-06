@@ -1,0 +1,61 @@
+body, p{
+    margin: 0;
+    padding: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    margin-left: auto;
+    padding:2em;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+nav img{
+    height: 20px;
+}
+main{
+    width: 50%;
+    margin: 12em auto;
+    text-align: center;
+}
+input{
+    width: 80%;
+    padding: 1px;
+    border-radius: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.76);
+}
+.button-container{
+    margin-top:1em;
+}
+.button-container button{
+    padding:1.em;
+}
+
+footer{
+    background-color: rgb(228, 228, 228);
+}
+
+.footer-top{
+    padding:1em;
+}
+
+.footer-bottom{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    border-top:1px solid rgb(177, 171, 171);
+}
+.left a{
+    margin-right:1em;
+}
+.right a{
+    margin-right:1em;
+}
