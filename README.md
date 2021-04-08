@@ -1,3 +1,3 @@
 # google-task
 task
-URL: https://github.com/Churchhillent/google-task.git
+URL: https://churchhillent.github.io/google-task/
